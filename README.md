@@ -53,7 +53,7 @@ I love experimenting with new tech daily!
   <img src="https://github-readme-stats.vercel.app/api?username=om-prakash0&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" height="150" style="margin-right:10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=om-prakash0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" style="margin-right:10px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash0&theme=radical" alt="Streak Stats" height="150" style="margin-right:10px;"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=om-prakash0&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="Trophies" height="150"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=om-prakash0&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="Trophies" height="150"/> -->
 </div>
 
 ---
