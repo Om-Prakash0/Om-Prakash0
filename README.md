@@ -107,8 +107,8 @@ https://om-prakash0.github.io/InnoVerse2/
 
 ---
 
-# 📊 GitHub Stats
-<div align="center">
+
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=om-prakash0&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="160"/>
 
@@ -116,7 +116,7 @@ https://om-prakash0.github.io/InnoVerse2/
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash0&theme=radical&hide_border=true" height="160"/>
 
-</div>
+</div> -->
 
 ---
 
