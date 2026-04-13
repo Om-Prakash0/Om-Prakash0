@@ -61,7 +61,7 @@ Data Structures & Algorithms
 <h2 align="center">Frontend</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
 </p>
 
 ---
@@ -69,15 +69,7 @@ Data Structures & Algorithms
 <h2 align="center">Mobile Development</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin"/>
-</p>
-
----
-
-<h2 align="center">Backend</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,graphql"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/>
 </p>
 
 ---
@@ -85,7 +77,7 @@ Data Structures & Algorithms
 <h2 align="center">Programming Languages</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
 </p>
 
 ---
@@ -101,7 +93,8 @@ Data Structures & Algorithms
 <h2 align="center">Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="48" />
 </p>
 <h1 align="center">GitHub Streak</h1>
 
