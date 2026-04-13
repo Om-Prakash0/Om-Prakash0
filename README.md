@@ -32,26 +32,33 @@ Frontend Developer • Mobile App Developer • DSA Enthusiast
 
 ---
 
-# 🚀 Current Project
+<h1 align="center">Current Project</h1>
 
-🔭 Currently working on  
+<p align="center">
+Currently working on
+</p>
 
-### 📚 Your's Library
+<h3 align="center">Your's Library</h3>
+
+<p align="center">
 https://om-prakash0.github.io/InnoVerse2/
+</p>
 
 ---
 
-# 🌱 Currently Learning
+<h1 align="center">Currently Learning</h1>
 
-• Web Development  
-• Mobile App Development  
-• Data Structures & Algorithms  
+<p align="center">
+Web Development <br/>
+Mobile App Development <br/>
+Data Structures & Algorithms
+</p>
 
 ---
 
-# 💻 Tech Stack
+<h1 align="center">Tech Stack</h1>
 
-## 🌐 Frontend
+<h2 align="center">Frontend</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
@@ -59,68 +66,44 @@ https://om-prakash0.github.io/InnoVerse2/
 
 ---
 
-## 📱 Mobile Development
+<h2 align="center">Mobile Development</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,react"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin"/>
 </p>
 
 ---
 
-## ⚙️ Backend
+<h2 align="center">Backend</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,graphql"/>
 </p>
 
 ---
 
-## 🧠 Programming Languages
+<h2 align="center">Programming Languages</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,go,rust"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python"/>
 </p>
 
 ---
 
-## 🗄️ Databases
+<h2 align="center">Databases</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ---
 
-## ☁️ Cloud / DevOps
+<h2 align="center">Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
-
----
-
-## 🛠 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
-</p>
-
----
-
-
-<!-- <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=om-prakash0&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-prakash0&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash0&theme=radical&hide_border=true" height="160"/>
-
-</div> -->
-
----
-
-# 🔥 GitHub Streak
+<h1 align="center">GitHub Streak</h1>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash0&theme=tokyonight"/>
@@ -128,7 +111,7 @@ https://om-prakash0.github.io/InnoVerse2/
 
 ---
 
-# 📈 Contribution Activity
+<h1 align="center">Contribution Activity</h1>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-prakash0&theme=react-dark"/>
@@ -136,7 +119,7 @@ https://om-prakash0.github.io/InnoVerse2/
 
 ---
 
-# 🕹️ Pacman Contribution Graph
+<h1 align="center">Pacman Contribution Graph</h1>
 
 <p align="center">
 
@@ -157,7 +140,7 @@ src="https://raw.githubusercontent.com/om-prakash0/om-prakash0/output/pacman-con
 
 ---
 
-# 🧠 Coding Profiles
+<h1 align="center">Coding Profiles</h1>
 
 <p align="center">
 
@@ -181,7 +164,6 @@ src="https://raw.githubusercontent.com/om-prakash0/om-prakash0/output/pacman-con
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-
 <a href="https://www.hackerearth.com/">
 <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
 </a>
@@ -190,6 +172,8 @@ src="https://raw.githubusercontent.com/om-prakash0/om-prakash0/output/pacman-con
 
 ---
 
-# ⚡ Fun Fact
+<h1 align="center">Fun Fact</h1>
 
-I enjoy building projects, learning new technologies, and solving coding problems every day 🚀
+<p align="center">
+I enjoy building projects, learning new technologies, and solving coding problems every day
+</p>
