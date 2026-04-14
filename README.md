@@ -24,8 +24,8 @@ Frontend Developer • Mobile App Developer • DSA Enthusiast
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.topcoder.com/members/231226">
-<img src="https://img.shields.io/badge/Topcoder-FF6F61?style=for-the-badge&logo=topcoder&logoColor=white"/>
+<a href="https://profiles.topcoder.com/om0049">
+  <img src="https://img.shields.io/badge/Topcoder-FF6F61?style=for-the-badge&logo=topcoder&logoColor=white"/>
 </a>
 
 </p>
