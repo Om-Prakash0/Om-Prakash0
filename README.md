@@ -77,7 +77,7 @@ Data Structures & Algorithms
 <h2 align="center">Programming Languages</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
 </p>
 
 ---
