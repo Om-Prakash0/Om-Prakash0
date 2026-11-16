@@ -1,176 +1,79 @@
-<h1 align="center">Hi 👋, I'm Om Prakash Yadav</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Developer • Mobile App Developer • DSA Enthusiast
-</h3>
+# Hi, I'm Om Prakash Yadav 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Mobile+App+Developer;React+Developer;DSA+Learner;Always+Learning+New+Technologies" />
-</p>
+### Frontend & Mobile Developer · Building my backend skills
 
----
+I build web interfaces, explore Android development, and practise data structures and algorithms.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=om-prakash0&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+**Web development &nbsp; / &nbsp; Mobile apps &nbsp; / &nbsp; Problem solving**
 
-<p align="center">
+<a href="https://www.linkedin.com/in/om-prakash-yadav-122499313/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Om on LinkedIn" /></a>
+<a href="https://github.com/Om-Prakash0?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+<a href="https://profiles.topcoder.com/om0049"><img src="https://img.shields.io/badge/Topcoder-om0049-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white" alt="My Topcoder profile" /></a>
 
-<a href="https://twitter.com/om_0049">
-<img src="https://img.shields.io/twitter/follow/om_0049?logo=twitter&style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/om-prakash-yadav-122499313/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://profiles.topcoder.com/om0049">
-  <img src="https://img.shields.io/badge/Topcoder-FF6F61?style=for-the-badge&logo=topcoder&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<h1 align="center">Current Project</h1>
+## A little about me
+
+- **I build** React interfaces and practical web projects around student life and productivity.
+- **I explore** Android development with Kotlin and backend development with Node.js and Express.
+- **I practise** data structures, algorithms, and turning ideas into working projects.
+- **My approach:** build something useful, understand how it works, and improve it step by step.
+
+## Selected projects
+
+| Project | What you'll find | Focus |
+| :--- | :--- | :--- |
+| 🎓 **[CampusHub](https://github.com/Om-Prakash0/CampusHub)** | A campus event frontend with event pages, registration tracking, profiles, and animated navigation. | React · Routing · UI development |
+| 📚 **[Your's Library](https://github.com/Om-Prakash0/InnoVerse2)** | A team study-platform project with a PDF viewer, study timer, focus mode, and study statistics. | HTML · CSS · JavaScript |
+| 🚌 **[Bus Tracking](https://github.com/Om-Prakash0/Tracking)** | A school-bus tracking web project with a React landing page for the SafeBus concept. | React · Web interfaces |
+| ✅ **[Task Management API](https://github.com/Om-Prakash0/TaskManagement)** | An Express practice API to create, list, retrieve, and delete tasks, with input validation and in-memory storage. | Node.js · Express · REST APIs |
+
+**More to explore:** [Android Playlist Demo](https://github.com/Om-Prakash0/AndroidPlaylistDemo) · [Daily Learning](https://github.com/Om-Prakash0/dailyLearning) · [All repositories](https://github.com/Om-Prakash0?tab=repositories)
+
+## Technologies I work with
 
 <p align="center">
-Currently working on
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express&perline=7" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, and Express" />
 </p>
 
-<h3 align="center">Your's Library</h3>
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript, React, Tailwind CSS |
+| **Backend practice** | Node.js, Express |
+| **Mobile** | Kotlin, Android Studio |
+| **Programming** | C, C++, Python |
+| **Databases** | MySQL, MongoDB |
+| **Tools** | Git, GitHub, VS Code, Google Colab |
 
-<p align="center">
-https://om-prakash0.github.io/InnoVerse2/
-</p>
+## What I'm learning
 
-<h3 align="center" >Bus Tracking</h3>
+- Building clearer, more responsive web interfaces.
+- Connecting frontend features to backend APIs.
+- Developing Android apps and understanding mobile app flows.
+- Strengthening my problem-solving skills through DSA practice.
 
-<p align="Center"> https://om-prakash0.github.io/Tracking/ </p>
-
----
-
-<h1 align="center">Currently Learning</h1>
-
-<p align="center">
-Web Development <br/>
-Mobile App Development <br/>
-Data Structures & Algorithms
-</p>
-
----
-
-<h1 align="center">Tech Stack</h1>
-
-<h2 align="center">Frontend</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
-</p>
-
----
-
-<h2 align="center">Mobile Development</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/>
-</p>
-
----
-
-<h2 align="center">Programming Languages</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
-</p>
-
----
-
-<h2 align="center">Databases</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
----
-
-<h2 align="center">Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="48" />
-</p>
-<h1 align="center">GitHub Streak</h1>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash0&theme=tokyonight"/>
-</p>
-
----
-
-<h1 align="center">Contribution Activity</h1>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=om-prakash0&theme=react-dark"/>
-</p>
-
----
-
-<h1 align="center">Pacman Contribution Graph</h1>
-
-<p align="center">
+<details>
+<summary><b>🟡 My Pac-Man contribution graph</b></summary>
+<br />
 
 <picture>
-
-<source media="(prefers-color-scheme: dark)" 
-srcset="https://raw.githubusercontent.com/om-prakash0/om-prakash0/output/pacman-contribution-graph-dark.svg">
-
-<source media="(prefers-color-scheme: light)" 
-srcset="https://raw.githubusercontent.com/om-prakash0/om-prakash0/output/pacman-contribution-graph.svg">
-
-<img alt="pacman contribution graph"
-src="https://raw.githubusercontent.com/om-prakash0/om-prakash0/output/pacman-contribution-graph.svg">
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Om-Prakash0/Om-Prakash0/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Om-Prakash0/Om-Prakash0/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man animation of my GitHub contributions" src="https://raw.githubusercontent.com/Om-Prakash0/Om-Prakash0/output/pacman-contribution-graph.svg" />
 </picture>
 
-</p>
+</details>
 
 ---
 
-<h1 align="center">Coding Profiles</h1>
+<div align="center">
 
-<p align="center">
+**Explore a project, follow my learning, or connect with me.**
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+[LinkedIn](https://www.linkedin.com/in/om-prakash-yadav-122499313/) · [Topcoder](https://profiles.topcoder.com/om0049) · [X](https://twitter.com/om_0049)
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerearth.com/">
-<img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h1 align="center">Fun Fact</h1>
-
-<p align="center">
-I enjoy building projects, learning new technologies, and solving coding problems every day
-</p>
+</div>
